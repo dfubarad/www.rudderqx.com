@@ -33,7 +33,7 @@
       background-color: #005599;
     }
     .hero {
-      background-image: url('https://images.unsplash.com/photo-1605296867304-46d5465a13f1'); /* aircraft image */
+      background-image: url('https://www.shutterstock.com/image-photo/white-passenger-plane-fly-over-takeoff-2476332547'); /* aircraft image */
       background-size: cover;
       background-position: center;
       height: 400px;
